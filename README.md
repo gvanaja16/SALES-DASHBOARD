@@ -13,6 +13,8 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 - [📈 Visuals Included](#-visuals-included)
 - [Dashboard Designing](#dashboard-designing)
 - [🎯 Project Outcome](#-project-outcome)
+- [💼 Key Business Questions Answered](#-key-business-questions-answered)
+- [Tools & Technologies](#tools--technologies)
 
 ---
 
@@ -27,7 +29,7 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 * Profit comparison across regions
 * Top 10 performing products analysis
 * Drill-through navigation to **Product Performance Overview**
-* Product-wise sales analysis
+* Customer-wise sales analysis
 
 ---
 
@@ -135,3 +137,27 @@ Based on the defined dashboard requirements, appropriate visuals were designed t
 * Implemented **drill-through functionality** to explore detailed product-level insights.
 * Enabled dynamic data exploration using **interactive filters for Year, Region, Segment, and Category**.
 * Transformed raw sales data into **clear visual insights to support data-driven decision making**.
+
+---
+
+## 💼 Key Business Questions Answered
+
+* What is the overall sales and profit performance of the business?
+* How do sales trends change over time?
+* Which regions generate the highest profit and sales?
+* Which product categories contribute the most to total revenue?
+* What are the top-performing products based on sales?
+* How do different customer segments contribute to overall sales?
+* Which products have the highest contribution to total revenue?
+* How does product performance vary across different regions?
+* Which customers generate the highest sales for specific products?
+
+---
+
+## Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+- Data Visualization
