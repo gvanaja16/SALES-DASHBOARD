@@ -135,4 +135,3 @@ Based on the defined dashboard requirements, appropriate visuals were designed t
 * Implemented **drill-through functionality** to explore detailed product-level insights.
 * Enabled dynamic data exploration using **interactive filters for Year, Region, Segment, and Category**.
 * Transformed raw sales data into **clear visual insights to support data-driven decision making**.
-
