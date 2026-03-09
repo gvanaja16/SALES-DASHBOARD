@@ -120,7 +120,7 @@ SELECTEDVALUE(Sales[Product Name], "ALL Products")
 
 Based on the defined dashboard requirements, appropriate visuals were designed to effectively represent sales performance and business insights. Relevant charts and KPI indicators were created to analyze trends, regional profitability, and product performance.
 
-sales_Dashboard.mp4
+[Watch Dashboard Demo](sales_Dashboard.mp4)
 
 ---
 
@@ -136,4 +136,3 @@ sales_Dashboard.mp4
 * Enabled dynamic data exploration using **interactive filters for Year, Region, Segment, and Category**.
 * Transformed raw sales data into **clear visual insights to support data-driven decision making**.
 
----
