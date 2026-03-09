@@ -12,9 +12,7 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 * 📊 Sample DAX Measures
 * 📈 Visuals Included
 * 🎨 Dashboard Designing
-* 📊 Project Outcome
-* 📂 Dataset
-* 🧠 Skills Demonstrated
+* 🎯 Project Outcome
 
 ---
 
@@ -122,19 +120,20 @@ SELECTEDVALUE(Sales[Product Name], "ALL Products")
 
 Based on the defined dashboard requirements, appropriate visuals were designed to effectively represent sales performance and business insights. Relevant charts and KPI indicators were created to analyze trends, regional profitability, and product performance.
 
+sales_Dashboard.mp4
 
 ---
 
-# 📊 Project Outcome
 
-This project helps businesses understand sales performance by providing insights into:
+## 🎯 Project Outcome
 
-* Sales growth trends
-* Regional profitability
-* Category performance
-* Top performing products
-* Customer purchasing behavior
-
-The dashboard enables stakeholders to **identify opportunities and make data-driven decisions**.
+* Developed an interactive **Sales Analytics Dashboard** to monitor overall sales performance.
+* Provided visibility into key business metrics including **Total Sales, Profit, Profit Margin, Orders, and Quantity** through KPI indicators.
+* Enabled analysis of **monthly sales trends** to identify patterns and seasonal performance.
+* Compared **regional profitability** to understand sales performance across different regions.
+* Identified **top-performing products** through Top 10 product analysis.
+* Implemented **drill-through functionality** to explore detailed product-level insights.
+* Enabled dynamic data exploration using **interactive filters for Year, Region, Segment, and Category**.
+* Transformed raw sales data into **clear visual insights to support data-driven decision making**.
 
 ---
