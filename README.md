@@ -3,16 +3,16 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 
 ---
 
-# 📑 Table of Contents
+## 📑 Table of Contents
 
-* 🚀 Features
-* 📁 Repository Structure
-* ⚙️ Prerequisites
-* 🗂 Data Schema & Preparation
-* 📊 Sample DAX Measures
-* 📈 Visuals Included
-* 🎨 Dashboard Designing
-* 🎯 Project Outcome
+- [🚀 Features](#-features)
+- [📁 Repository Structure](#-repository-structure)
+- [⚙️ Prerequisites](#-prerequisites)
+- [🗂 Data Schema & Preparation](#-data-schema--preparation)
+- [📊 Sample DAX Measures](#-sample-dax-measures)
+- [📈 Visuals Included](#-visuals-included)
+- [Dashboard Designing](#dashboard-designing)
+- [🎯 Project Outcome](#-project-outcome)
 
 ---
 
