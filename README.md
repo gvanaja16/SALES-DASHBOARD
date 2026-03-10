@@ -7,7 +7,7 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 
 - [🚀 Features](#-features)
 - [📁 Repository Structure](#-repository-structure)
-- [⚙️ Prerequisites](#-prerequisites)
+- [🔧 Prerequisites](#-prerequisites)
 - [🗂 Data Schema & Preparation](#-data-schema--preparation)
 - [📊 Sample DAX Measures](#-sample-dax-measures)
 - [📈 Visuals Included](#-visuals-included)
@@ -33,12 +33,12 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 
 ---
 
-# ⚙️ Prerequisites
+# 🔧 Prerequisites
 
-* Microsoft Power BI Desktop(latest version recommended)
-* (optional) Power Bi Pro / Service for publishing & sharing
-* Basic familarity with Power Query and DAX formulas
-* CSV or Excel file of Sales data with at least: Order details, product details & customer details.
+-  Microsoft Power BI Desktop(latest version recommended)
+-  (optional) Power Bi Pro / Service for publishing & sharing
+-  Basic familarity with Power Query and DAX formulas
+-  CSV or Excel file of Sales data.
 
 ---
 
@@ -122,12 +122,13 @@ SELECTEDVALUE(Sales[Product Name], "ALL Products")
 
 Based on the defined dashboard requirements, appropriate visuals were designed to effectively represent sales performance and business insights. Relevant charts and KPI indicators were created to analyze trends, regional profitability, and product performance.
 
-[Watch Dashboard Demo](sales_Dashboard.mp4)
+![Sales_Dashboard](https://github.com/user-attachments/assets/4d26fcbb-1e11-4530-b057-49dcd5058897)
+
 
 ---
 
 
-## 🎯 Project Outcome
+# 🎯 Project Outcome
 
 * Developed an interactive **Sales Analytics Dashboard** to monitor overall sales performance.
 * Provided visibility into key business metrics including **Total Sales, Profit, Profit Margin, Orders, and Quantity** through KPI indicators.
