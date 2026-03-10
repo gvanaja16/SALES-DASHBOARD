@@ -3,7 +3,7 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 
 ---
 
-## 📑 Table of Contents
+# 📑 Table of Contents
 
 - [🚀 Features](#-features)
 - [📁 Repository Structure](#-repository-structure)
@@ -36,7 +36,7 @@ A POWER BI dashboard to analyze Sales performance across different regions, prod
 # 🔧 Prerequisites
 
 -  Microsoft Power BI Desktop(latest version recommended)
--  (optional) Power Bi Pro / Service for publishing & sharing
+-  (optional) Power BI Pro / Service for publishing & sharing
 -  Basic familarity with Power Query and DAX formulas
 -  CSV or Excel file of Sales data.
 
@@ -141,7 +141,7 @@ Based on the defined dashboard requirements, appropriate visuals were designed t
 
 ---
 
-## 💼 Key Business Questions Answered
+# 💼 Key Business Questions Answered
 
 * What is the overall sales and profit performance of the business?
 * How do sales trends change over time?
@@ -155,7 +155,7 @@ Based on the defined dashboard requirements, appropriate visuals were designed t
 
 ---
 
-## Tools & Technologies
+# Tools & Technologies
 
 - Power BI
 - Power Query
