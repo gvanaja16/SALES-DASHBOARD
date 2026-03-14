@@ -121,7 +121,8 @@ SELECTEDVALUE(Sales[Product Name], "ALL Products")
 Based on the defined dashboard requirements, appropriate visuals were designed to effectively represent sales performance and business insights. Relevant charts and KPI indicators were created to analyze trends, regional profitability, and product performance.
 
 
-Sales_Analytics_Dashboard.gif
+
+
 
 ---
 
