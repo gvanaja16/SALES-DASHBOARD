@@ -81,8 +81,6 @@ Total Quantity Total Quantity = SUM(Sales[Quantity])
 
 Profit Margin Profit Margin % = DIVIDE([Total Profit],[Total Sales])
 
-Avg Order Value Avg Order Value = DIVIDE([Total Sales],[Total Orders]) 
-
 Product Contribution  Product Contribution % =
 DIVIDE(
 [Total Sales],
@@ -122,7 +120,7 @@ SELECTEDVALUE(Sales[Product Name], "ALL Products")
 
 Based on the defined dashboard requirements, appropriate visuals were designed to effectively represent sales performance and business insights. Relevant charts and KPI indicators were created to analyze trends, regional profitability, and product performance.
 
-![Sales_Dashboard](https://github.com/user-attachments/assets/4d26fcbb-1e11-4530-b057-49dcd5058897)
+
 
 
 ---
